@@ -1,0 +1,2 @@
+string name = "YogiSha";
+int age = 24;
